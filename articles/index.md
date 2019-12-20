@@ -1,3 +1,6 @@
+# 12월 20일 이거 마치고 aks까지 하고 마칠게요...
+
+
 # Azure DevOps HOL
 
 [DevOps Korea Meetup](http://meetup.devopskorea.com/201906/) 행사에서 진행하는 Hands on Lab입니다.
